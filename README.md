@@ -1,11 +1,14 @@
-Steps to run this example
+Steps to run this example on the iphone
 
 1. **npm install**
 2. **bower install**
 3. **ionic platform ios**
-Then
-**ionic emulate ios** (Run this on the simulator)
-**ionic run ios** to run this on your iphone.
+
+To run this on the simulator 
+**ionic emulate ios**
+
+To run this on your iphone
+**ionic run ios** 
 
 Please note we use a **$timeout** to hide a splashscreen, in a real app, you would probably use an api call.
 
